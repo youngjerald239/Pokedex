@@ -1,0 +1,4 @@
+(function evaluate(require, module, exports, process, setImmediate, global, __dirname, __filename, $csbImport) {
+      module.exports = "http://24.media.tumblr.com/fe61dc2b7ef08a538b906eced7fa5cb5/tumblr_mitnv9F37V1s5iz0ho1_500.gif";
+//# sourceURL=http://24.media.tumblr.com/fe61dc2b7ef08a538b906eced7fa5cb5/tumblr_mitnv9F37V1s5iz0ho1_500.gif
+})

@@ -1,0 +1,4 @@
+(function evaluate(require, module, exports, process, setImmediate, global, __dirname, __filename, $csbImport) {
+      module.exports = "https://rawcdn.githack.com/jkeohan/pokedex/5f567555602a7702380260e0fa5f300a3e083b26/src/closed-pokeball-color.png";
+//# sourceURL=https://p3x04.csb.app/src/closed-pokeball-color.png
+})
